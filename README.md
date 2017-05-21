@@ -1,6 +1,4 @@
----
-title: Hexo优化之为外部链接添加nofollow
----
+# Hexo优化之为外部链接添加nofollow
 
 原文说明如下： https://liuzhichao.com/2016/hexo-auto-nofollow.html
 
